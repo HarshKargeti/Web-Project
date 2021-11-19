@@ -1,0 +1,54 @@
+/*Utility classes*/
+.h-primary{
+    font-size: 3.8rem;
+    padding: 12px;
+    font-family: 'Bree Serif', serif;
+}
+
+.center{
+    text-align: center;
+}
+
+/* Contact Section */
+#contact{
+    position: relative;
+}
+
+#contact-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 34px;
+
+}
+
+#contact-box input,
+#contact-box textarea{
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    border: 1px solid rgb(70, 63, 63);
+    background-color: #f6f9fb;
+}
+
+#contact-box form{
+    width: 40%;
+}
+
+#contact-box label{
+    font-size: 1.3rem;
+}
+
+.form-group{
+    margin-bottom: 12px;
+    width: 654px;
+}
+
+#contact a .btn{
+    background-color: black;
+    color: white;
+    height: 53px;
+    width: 50px;
+    width: 335px;
+    font-size: 21px;
+}
